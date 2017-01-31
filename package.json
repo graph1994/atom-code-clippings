@@ -1,0 +1,18 @@
+{
+  "name": "atom-code-clippings",
+  "main": "./lib/atom-code-clippings",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-code-clippings:toggle"
+  },
+  "repository": "https://github.com/atom/atom-code-clippings",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

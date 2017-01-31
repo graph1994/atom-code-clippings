@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-code-clippings",
+        "command": "atom-code-clippings:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-code-clippings",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-code-clippings:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
